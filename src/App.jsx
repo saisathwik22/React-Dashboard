@@ -7,6 +7,8 @@ import Sidebar from "./components/common/Sidebar";
 import UsersPage from "./pages/UsersPage";
 import SalesPage from "./pages/SalesPage";
 import OrdersPage from "./pages/OrdersPage";
+import AnalyticsPage from "./pages/AnalyticsPage";
+import SettingsPage from "./pages/SettingsPage";
 
 function App() {
   return (
@@ -24,6 +26,8 @@ function App() {
         <Route path='/users' element={<UsersPage />} />
         <Route path='/sales' element={<SalesPage />} />
         <Route path='/orders' element={<OrdersPage />} />
+        <Route path='/analytics' element={<AnalyticsPage />} />
+        <Route path='/settings' element={<SettingsPage />} />
       </Routes>
     </div>
   );
