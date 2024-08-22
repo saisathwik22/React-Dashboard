@@ -1,4 +1,11 @@
-# React + Vite
+# React + Vite Dashboard
+
+- Deployed on Vercel.
+
+###URL of deployed application:
+
+https://react-dashboard-eight-smoky.vercel.app/
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
