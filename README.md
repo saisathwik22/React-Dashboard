@@ -1,6 +1,6 @@
 # React Dashboard - Deployed on Vercel
 
-[Live URL]("https://react-dashboard-eight-smoky.vercel.app/")
+- [Live URL](https://react-dashboard-eight-smoky.vercel.app/)
 
 ![Screenshot (65)](https://github.com/user-attachments/assets/b0f790df-302e-41a3-93ad-ae9456620acc)
 
