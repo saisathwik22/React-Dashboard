@@ -1,18 +1,18 @@
 # React Dashboard - Deployed on Vercel
 
-- [Live URL](https://react-dashboard-eight-smoky.vercel.app/)
+- [Deployed On Vercel](https://react-dashboard-eight-smoky.vercel.app/)
 
 ![Screenshot (65)](https://github.com/user-attachments/assets/b0f790df-302e-41a3-93ad-ae9456620acc)
 
-- Deployed on Vercel.
+
 
   
-## This is a free admin dashboard ui kit built with:
-React
-Tailwind CSS
-Recharts
-Framer Motion
-It is completely responsive and can be used for any type of web application.
+## This is a free Admin Dashboard UI kit built with:
+- React
+- Tailwind CSS
+- Recharts
+- Framer Motion
+- It is completely responsive and can be used for any type of web application.
 
 ```
 Run this app locally
